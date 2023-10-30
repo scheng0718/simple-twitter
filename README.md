@@ -3,6 +3,8 @@
 
 A social media website built with node.js and express. Users can register, log in, log out, browse, and post tweets. They can also edit personal profiles, view others' profiles, see others' tweets, and replies. Additionally, the website has an admin feature allowing administrators to view and delete specific tweets and view information of all users.
 
+![](./screenshots/twitter_main_page.png)
+
 # Features
 
 - User Features
